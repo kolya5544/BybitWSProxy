@@ -1,7 +1,7 @@
 # Bybit WSS Demo Proxy (BybitWSProxy)
 ## WebSocket Trade proxy for your Bybit Demo Account
 
-BybitWSProxy is a server-side software that allows you to accept WebSocket Trade connection, and send them as a REST request to Bybit API instead
+BybitWSProxy is a server-side application that allows you to accept WebSocket Trade connection, and send them as a REST request to Bybit API instead
 
 ## But why? What is this for?
 
